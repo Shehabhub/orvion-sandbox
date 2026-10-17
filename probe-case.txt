@@ -1,1 +1,1 @@
-bootstrap success fixture
+intentional failed acceptance fixture
